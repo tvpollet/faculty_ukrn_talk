@@ -47,11 +47,11 @@ knitr::include_graphics("https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.
 ---
 ## Who am I?
 
-* Thomas Pollet - Professor in Dept of Psychology.
+* [Thomas Pollet](http://tvpollet.github.io/) - Professor in Dept of Psychology.
 
 --
 
-* Institution Lead (IL) for the UK Reproducibility Network (www.ukrn.org)
+* Institution Lead (IL) for the UK Reproducibility Network ([www.ukrn.org](www.ukrn.org))
 
 --
 
@@ -59,7 +59,7 @@ knitr::include_graphics("https://media.giphy.com/media/3o7aTskHEUdgCQAXde/giphy.
 
 --
 
-* Local Network Lead: 'Bottom up': David Smailes (Asst. Prof. in Psychology)
+* Local Network Lead: 'Bottom up': [David Smailes](https://www.northumbria.ac.uk/about-us/our-staff/s/david-smailes/) (Asst. Prof. in Psychology)
 
 ```{r, out.width = "200px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("Smailes.jpg") 
@@ -68,7 +68,7 @@ knitr::include_graphics("Smailes.jpg")
 ---
 ## Local Network Lead
 
-David does ‘grassroots’ open research stuff. Tries to stimulate 'open research practices'.
+David does ‘grassroots’ open research 'stuff'. Tries to stimulate 'open research practices'.
 
 --
 
@@ -99,7 +99,7 @@ We seek to understand the factors that contribute to poor research reproducibili
 ---
 ## What are Open Research Practices?
 
-* An umbrella term for many practices. Often linked with other domains of 'good' research practices: Research Integrity, Research ethics, Digitisation, Research culture
+* An umbrella term for many practices. Often linked with other domains of 'good' research practices: Research Integrity, Research ethics, Digitisation, Research culture.
 
 --
 
@@ -165,13 +165,13 @@ For broader policy: Probably me.
 
 For Early Career Researchers (ECRs): Probably David -- [david.smailes@northumbria.ac.uk](mailto:david.smailes@northumbria.ac.uk) !
 
-We will do our best to help but some queries.
+We will do our best to help but some queries we might pass on.
 
 We might lean on the [UKRN’s](www.ukrn.org) resources/network as well.
 
 Some dedicated resources at the library (e.g., regarding open access, preprinting, etc.)
 
-```{r, out.width = "300px", echo=FALSE, fig.align='center'}
+```{r, out.width = "150px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/muIPu46O6z5d6jVZaL/giphy-downsized-large.gif")
 ```
 
@@ -180,7 +180,7 @@ knitr::include_graphics("https://media.giphy.com/media/muIPu46O6z5d6jVZaL/giphy-
 
 [http://tvpollet.github.io](http://tvpollet.github.io)
 
-These slides: XXX 
+These slides: [https://tvpollet.github.io/faculty_ukrn_talk/Lecture_open_science_faculty.html](https://tvpollet.github.io/faculty_ukrn_talk/Lecture_open_science_faculty.html#1)
 
 ```{r, out.width = "600px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/3ohzdRoOp1FUYbtGDu/giphy.gif")
