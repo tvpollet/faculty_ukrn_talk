@@ -35,7 +35,7 @@ xaringanExtra::use_tile_view()
 ## Outline
 
 * Who am I?
-* UKRN
+* UKRN ([www.ukrn.org](www.ukrn.org))
 * What are Open Research Practices?
 * How can we help? What do I need from you
 
@@ -87,10 +87,12 @@ We seek to understand the factors that contribute to poor research reproducibili
 
 --> keywords: Multidiscipline; Meta-Research; Training support; Distributed network
 
+--> read more on [www.ukrn.org](www.ukrn.org)
+
 ---
 ## UKRN: structure.
 
-* [Steering group](https://www.ukrn.org/steering-group/) chaired by Marcus Munafò
+* [Steering group](https://www.ukrn.org/steering-group/) chaired by Prof. Marcus Munafò
 
 * [Advisory group](https://www.ukrn.org/advisory-board/)
 
@@ -200,10 +202,11 @@ knitr::include_graphics("https://media.giphy.com/media/10avZ0rqdGFyfu/giphy.gif"
 ```
 
 ---
-## Some resources
+## Some further resources
 
 * [www.ukrn.org](www.ukrn.org)
 * [RepoducibiliTea](https://reproducibilitea.org/)
 * [Center for Open Science](https://www.cos.io/?hsLang=en)
+* [RIOT science club](https://riotscience.co.uk/about-us/)
 * [UKRI](https://www.ukri.org/about-us/policies-standards-and-data/good-research-resource-hub/open-research/)
 * [Registered Reports](https://www.cos.io/initiatives/registered-reports)
