@@ -26,6 +26,7 @@ require(knitr)
 
 ```{r xaringan-logo, echo=FALSE}
 xaringanExtra::use_logo("NU2.png")
+# Images are used under Fair Use, check disclaimer.
 ```
 
 ```{r xaringan-tile-view, echo=FALSE}
@@ -98,6 +99,10 @@ We seek to understand the factors that contribute to poor research reproducibili
 
 * [Local and institutional memberships](https://www.ukrn.org/institutional-leads/)
 
+```{r, out.width = "400px", echo=FALSE, fig.align='center'}
+knitr::include_graphics("https://media.giphy.com/media/7NS9RAepPQ0HJ85qJz/giphy-downsized-large.gif") 
+```
+
 ---
 ## What are Open Research Practices?
 
@@ -163,9 +168,14 @@ knitr::include_graphics("https://media.giphy.com/media/l4lRhrxMyrKUR0n9C/giphy-d
 
 * If you or your staff need guidance on any 'Open Research stuff', send David or me an [email](mailto:thomas.pollet@northumbria.ac.uk).
 
+
+--
+
 For broader policy: Probably me.
 
 For Early Career Researchers (ECRs): Probably David -- [david.smailes@northumbria.ac.uk](mailto:david.smailes@northumbria.ac.uk) !
+
+--
 
 We will do our best to help but some queries we might pass on.
 
