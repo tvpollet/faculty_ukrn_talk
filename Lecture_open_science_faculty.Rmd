@@ -154,7 +154,7 @@ knitr::include_graphics("Cynic.gif")
 
 * Promotion of UKRN event on **March 29th**.
 
-* Input (/feedback) on Open Research policy. Engagement with Research Culture survey.
+* Input (/feedback) on Open Research policy. Engagement with UKRN survey.
 
 ```{r, out.width = "300px", echo=FALSE, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/l4lRhrxMyrKUR0n9C/giphy-downsized-large.gif")
